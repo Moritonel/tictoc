@@ -1,7 +1,7 @@
 import pygame as pg
 import sys
 import time
-from pygame.locals import import *
+from pygame.locals import *
 
 
 class Game:
