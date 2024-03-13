@@ -45,7 +45,7 @@ class Game:
         #resizing images
         initiating_window = pg.transform.scale(initiating_window, (self.width, self.height +100))
         x_img = pg.transform.scale(x_img, (80, 80))
-        o_img = pg.transform.scale(o_img, (80, 80))
+        o_img = pg.transform.scale(y_img, (80, 80))
 
 
 
